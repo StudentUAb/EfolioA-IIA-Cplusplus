@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img width="600" src="cpluplus-2.png" />
+    <img width="600" src="cplusplus-2.png" />
 </h1>
 
 
