@@ -4,12 +4,9 @@
 
 
 <p align="center">
-Trabalho em C
-
-Funcionamento de uma Pila LIFO(Last In First Out) 
+EfolioA de IIA
     
-Programa em linguagem C padrão, de nome pila.c, que permita efetuar o teste de um programa.
-O programa recebe valores inteiros, e permite empilar e desempilar e mostra os valores na ordem que vão ficando:
+Os terrenos são quadrados e têm igual valor. Podem ser trocados terrenos que sejam vizinhos. Os proprietários pretendem fazer permutas de terrenos para reduzir o número de fronteiras. Não aceitam qualquer permuta que aumente o número de fronteiras. Existindo uma permuta que tenha uma maior redução do número de fronteiras, não aceitam uma outra com um menor redução:
 </p>
 
 📌 Programa sobre # EfolioA de IIA
@@ -30,7 +27,7 @@ O projeto foi feito em C++
 The project was done with C++
 
 
-<img src="print.png" alt="page-home">
+<img src="cplusplus.png" alt="page-home">
 
 
 🔧 Tecnologias utilizadas:
