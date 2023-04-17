@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img width="600" src="c.png" />
+    <img width="600" src="cpluplus-2.png" />
 </h1>
 
 
@@ -27,7 +27,7 @@ O projeto foi feito em C++
 The project was done with C++
 
 
-<img src="cplusplus.png" alt="page-home">
+<img src="tela.png" alt="page-home">
 
 
 🔧 Tecnologias utilizadas:
