@@ -15,7 +15,7 @@ problema de permutação de terrenos
 
 ## Sintaxe para compilar:
 
-<pre>gcc efolia.cpp -o efolioa </pre>
+<pre>g++ efolia.cpp -o efolioa -std=c++17</pre>
 
 ## Sintaxe para executar:
 <pre>./efolioa </pre>
@@ -33,7 +33,7 @@ The project was done with C++
 🔧 Tecnologias utilizadas:
 ------------------
 
-- C++
+- C++17
 - MacOS
 
 💬 Fale comigo
